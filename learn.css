@@ -107,3 +107,15 @@
     margin-left: 30px;
     font-weight: 600;
 }
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Roboto,Arial,sans-serif;
+    color: black !important;
+    font-size:15px;
+    margin-top: -4px;
+}
+.content a{
+    color: black;
+}
